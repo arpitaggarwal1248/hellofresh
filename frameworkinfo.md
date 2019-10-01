@@ -31,6 +31,9 @@ Contains yaml and config files based on environment
 ### testxml
 All testxml for running test using TestNG.
 
+### GridSetup
+All files that support grid setup for parallel runs
+
 ### TestReport
 Extent reports for run is generated here.
 
